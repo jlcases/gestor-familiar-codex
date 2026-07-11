@@ -2,7 +2,11 @@
 
 **[English](#english) · [Español](#español)**
 
-Half of a public comparison. The other half: [gestor-familiar-paelladoc](https://github.com/jlcases/gestor-familiar-paelladoc), the same request built by PaellaDoc's verify loop over 3.5 days.
+Part of a three-way public comparison:
+
+- **This repo** — first attempt, no verification asked. Dies on the first click.
+- [gestor-familiar-codex-verificado](https://github.com/jlcases/gestor-familiar-codex-verificado) — second attempt, verification requested in the prompt. Works on click; frozen on July 11, 2026.
+- [gestor-familiar-paelladoc](https://github.com/jlcases/gestor-familiar-paelladoc) — same request through PaellaDoc's verify loop: 59 backend tests + 59 browser e2e cases + evidence per criterion.
 
 ---
 
